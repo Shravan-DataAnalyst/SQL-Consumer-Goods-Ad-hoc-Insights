@@ -1,5 +1,4 @@
 # SQL-Consumer-Goods-Ad-hoc-Insights
-This project is part of data analytics bootcamp at codebasics.
 
 ##  Project Overview
 
